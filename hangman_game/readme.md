@@ -41,3 +41,4 @@ Game timestamp
 Session notes: 
     Stage of the hangman by the conclusion of the game
     Progress trace
+
