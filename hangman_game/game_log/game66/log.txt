@@ -1,0 +1,11 @@
+Category: Countries
+Word (hidden): egypt
+Player's guesses: 
+Number of wrong guesses: 0
+Final result: Quit
+Score: 0
+Timestamp: 2025-10-28 17:11:13
+
+Session Notes:
+- Progress trace:
+---------------------------------------

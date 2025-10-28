@@ -1,0 +1,10 @@
+===============================================
+🕒 Timestamp: 2025-10-26 18:20:02
+📂 Category: General
+🔤 Word (hidden during gameplay): physics
+✅ Correct Guesses: i, p, y
+❌ Incorrect Guesses: fd, o, r, t, u, w
+🚫 Wrong Guess Count: 6
+🏁 Result: LOSS
+⭐ Score: 0
+===============================================

@@ -1,0 +1,12 @@
+=== Hangman Game Log ===
+Timestamp: 2025-10-26 18:39:59
+
+Selected Category: Animals
+Selected Word: elephant
+
+Correct Guesses: e, t
+Incorrect Guesses: r, s, u, x, y, z
+Number of Wrong Guesses: 6
+
+Final Result: Loss
+Score for Game: 50

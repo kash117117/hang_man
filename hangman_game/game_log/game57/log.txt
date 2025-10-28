@@ -1,0 +1,7 @@
+Category: Countries
+Word (hidden): mexico
+Player's guesses: bdegjkr
+Number of wrong guesses: 6
+Final result: Loss
+Score: 40
+Timestamp: 2025-10-28 16:33:03

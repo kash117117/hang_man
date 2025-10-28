@@ -1,0 +1,18 @@
+Category: Countries
+Selected Word: france
+Timestamp: 2025-10-27 16:24:44.052317
+
+Guesses:
+1. e -> Correct
+2. a -> Correct
+3. u -> Incorrect
+4. z -> Incorrect
+5. n -> Correct
+6. y -> Incorrect
+7. q -> Incorrect
+8. w -> Incorrect
+9. m -> Incorrect
+
+Wrong guesses: 6
+Result: Loss
+Score: 0

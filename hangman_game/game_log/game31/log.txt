@@ -1,0 +1,12 @@
+=== Hangman Game Log ===
+Timestamp: 2025-10-26 18:42:55
+
+Selected Category: Programming
+Selected Word: function
+
+Correct Guesses: f
+Incorrect Guesses: 3, 5, d, e, r, x
+Number of Wrong Guesses: 6
+
+Final Result: Loss
+Score for Game: 50

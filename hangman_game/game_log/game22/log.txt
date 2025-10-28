@@ -1,0 +1,10 @@
+===============================================
+🕒 Timestamp: 2025-10-26 18:14:38
+📂 Category: General
+🔤 Word (hidden during gameplay): gambia
+✅ Correct Guesses: g, i
+❌ Incorrect Guesses: d, e, f, r, s, u
+🚫 Wrong Guess Count: 6
+🏁 Result: LOSS
+⭐ Score: 0
+===============================================

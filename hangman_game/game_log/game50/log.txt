@@ -1,0 +1,6 @@
+Word (hidden): computer
+Player's guesses: abceiknrv
+Number of wrong guesses: 6
+Final result: Loss
+Score: 40
+Timestamp: 2025-10-27 16:58:42

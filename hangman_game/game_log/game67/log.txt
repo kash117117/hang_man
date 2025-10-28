@@ -1,0 +1,13 @@
+Category: Programming
+Word: ruby
+Guessed letters: a, c, e, i, o, u, v
+Wrong guesses: e, a, i, o, c, v
+Attempts used: 6
+Final result: Loss
+Score: 10
+Timestamp: 2025-10-28 17:23:54
+
+Session Notes:
+- ASCII hangman reached state 6 after wrong guess 'v'.
+- Progress trace: ____ -> ____ -> ____ -> ____ -> _u__ -> _u__ -> _u__
+----------------------------------------

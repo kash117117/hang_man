@@ -1,0 +1,5 @@
+Game 42 Log
+Category: Animals
+Word (hidden during play): giraffe
+Word Length: 7
+Guesses (in order):

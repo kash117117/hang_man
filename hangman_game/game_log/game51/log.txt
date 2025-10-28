@@ -1,0 +1,7 @@
+Category: Countries
+Word (hidden): brazil
+Player's guesses: abcefgilrtz
+Number of wrong guesses: 5
+Final result: Win
+Score: 50
+Timestamp: 2025-10-27 17:15:28

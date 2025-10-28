@@ -1,0 +1,13 @@
+Category: Countries
+Word: canada
+Guessed letters: a, c, d, n
+Wrong guesses: None
+Attempts used: 0
+Final result: Win
+Score: 60
+Timestamp: 2025-10-28 17:24:54
+
+Session Notes:
+- ASCII hangman reached state 0 after wrong guess 'None'.
+- Progress trace: _a_a_a -> _ana_a -> canada
+----------------------------------------

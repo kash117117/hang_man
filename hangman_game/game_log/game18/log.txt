@@ -1,0 +1,8 @@
+timestamp: 2025-10-26 18:06:57.427702
+category: General
+word: alligator
+guessed_letters: ['w', 'o', 'e', 'r', 'i', 'a', 's', 'y', 'u', 't', 'p']
+incorrect_guesses: ['e', 'y', 's', 'w', 'u', 'p']
+wrong_guess_count: 6
+result: LOSS
+score: 0

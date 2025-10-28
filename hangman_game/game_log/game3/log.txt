@@ -1,0 +1,30 @@
+Game 3 Log
+----------------------------------------
+Date & Time: 2025-10-26 16:59:35
+Category: General
+Word: CLASS
+Word Length: 5
+
+Guesses (in order):
+1. S          → Correct
+2. R          → Wrong
+3. T          → Wrong
+4. Y          → Wrong
+5. U          → Wrong
+6. I          → Wrong
+7. F          → Wrong
+
+Wrong Guesses List: F, I, R, T, U, Y
+Wrong Guesses Count: 6
+Remaining Attempts at End: 0
+
+Result: Loss
+Points Earned: 0
+
+----------------------------------------
+CUMULATIVE STATS (After this round):
+Games Played: 4
+Wins: 0
+Losses: 4
+Win Rate: 0.00%
+----------------------------------------

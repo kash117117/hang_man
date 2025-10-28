@@ -1,0 +1,21 @@
+Category: Countries
+Word (hidden): france
+Player's guesses: acefghnrst
+Number of wrong guesses: 4
+Final result: Win
+Score: 40
+Timestamp: 2025-10-28 17:06:25
+
+Session Notes:
+- ASCII hangman reached state 4 after last wrong guess.
+- Progress trace:
+______  -> ______  (s (wrong — no progress change))
+______  -> _____e
+_____e  -> _r___e
+_r___e  -> _r___e  (3 (wrong — no progress change))
+_r___e  -> _r___e  (t (wrong — no progress change))
+_r___e  -> _r___e
+_r___e  -> fr___e
+fr___e  -> fr___e  (g, h (wrong — no progress change))
+fr___e  -> france
+---------------------------------------

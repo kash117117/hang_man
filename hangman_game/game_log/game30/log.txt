@@ -1,0 +1,12 @@
+=== Hangman Game Log ===
+Timestamp: 2025-10-26 18:42:26
+
+Selected Category: Science
+Selected Word: atom
+
+Correct Guesses: None
+Incorrect Guesses: & c:/users/hp/appdata/local/microsoft/windowsapps/python3.13.exe "c:/users/hp/downloads/nust docs/advanced programming in python course/python/hangman_game/main.py", f, s
+Number of Wrong Guesses: 6
+
+Final Result: Loss
+Score for Game: 10

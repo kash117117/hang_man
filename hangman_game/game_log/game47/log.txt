@@ -1,0 +1,27 @@
+Game 47 Log
+Category: Animals
+Word (hidden during play): elephant
+Word Length: 8
+Guesses (in order):
+1. e → Correct
+2. a → Correct
+3. f → Wrong
+4. g → Wrong
+5. h → Correct
+6. u → Wrong
+7. y → Wrong
+8. p → Correct
+9. n → Correct
+10. t → Correct
+11. l → Correct
+
+Wrong Guesses List: f, g, u, y
+Wrong Guesses Count: 4
+Remaining Attempts at End: 2
+Result: Win
+Points Earned: 60
+Total Score (after this round): 60
+Games Played: 1
+Wins: 1 | Losses: 0
+Win Rate: 100.00%
+Date & Time: 2025-10-26 20:55:39

@@ -1,0 +1,8 @@
+timestamp: 2025-10-26 18:03:48.112819
+category: General
+word: header
+guessed_letters: ['o', 'd', 'y', 's', 'a', 'u', 'i', 'f', 'e']
+incorrect_guesses: ['o', 'y', 's', 'u', 'i', 'f']
+wrong_guess_count: 6
+result: LOSS
+score: 0

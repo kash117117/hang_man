@@ -1,0 +1,32 @@
+Game 2 Log
+----------------------------------------
+Date & Time: 2025-10-26 16:49:57
+Category: Animals
+Word: CONTINENT
+Word Length: 9
+
+Guesses (in order):
+1. A          → Wrong
+2. S          → Wrong
+3. E          → Correct
+4. I          → Correct
+5. O          → Correct
+6. D          → Wrong
+7. F          → Wrong
+8. G          → Wrong
+9. H          → Wrong
+
+Wrong Guesses List: A, D, F, G, H, S
+Wrong Guesses Count: 6
+Remaining Attempts at End: 0
+
+Result: Loss
+Points Earned: 0
+
+----------------------------------------
+CUMULATIVE STATS (After this round):
+Games Played: 3
+Wins: 0
+Losses: 3
+Win Rate: 0.00%
+----------------------------------------

@@ -1,0 +1,31 @@
+Game 1 Log
+----------------------------------------
+Date & Time: 2025-10-26 16:47:46
+Category: Countries
+Word: KANBAN
+Word Length: 6
+
+Guesses (in order):
+1. A          → Correct
+2. E          → Wrong
+3. I          → Wrong
+4. O          → Wrong
+5. U          → Wrong
+6. B          → Correct
+7. X          → Wrong
+8. C          → Wrong
+
+Wrong Guesses List: C, E, I, O, U, X
+Wrong Guesses Count: 6
+Remaining Attempts at End: 0
+
+Result: Loss
+Points Earned: 0
+
+----------------------------------------
+CUMULATIVE STATS (After this round):
+Games Played: 2
+Wins: 0
+Losses: 2
+Win Rate: 0.00%
+----------------------------------------

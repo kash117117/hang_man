@@ -1,0 +1,7 @@
+Category: Animals
+Word (hidden): tiger
+Player's guesses: abcegirtvx
+Number of wrong guesses: 5
+Final result: Win
+Score: 50
+Timestamp: 2025-10-27 19:12:35
